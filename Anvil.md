@@ -31,6 +31,7 @@ This is our recurring "todo" list that we will refer back to after each requeste
 ## User Story 2 -> Quick description of the second unit
     - Task 1: The Task
 ## User Story 3 -> Quick description of the third unit
+    - Task 1: The Task
 ```
 
 # Review Task Mode
